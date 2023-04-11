@@ -1,0 +1,78 @@
+/* <link href="https://fonts.googleapis.com/css2?family=Outfit:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /> */
+
+p {
+  font-size: 20px;
+  line-height: 145%;
+  margin-right: 0px;
+  font-weight: 400;
+  font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+}
+
+.questionnaire .question .question-header .question-title {
+  font-weight: 400;
+}
+
+#jobFormDiv .form-control, 
+.form-control,
+textarea {
+   background-color:#FFFFFF;
+   border:solid 2px #191919;
+   font-size:20px;
+   color:#191919;
+   -moz-border-radius:10px;
+   -webkit-border-radius:10px;
+   border-radius:10px;
+   padding-left:20px;
+   padding-right:20px;
+   height: 45px;
+   font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+}
+
+#jobFormDiv label.clickableLink, 
+#questionnairesDiv label.clickableLink {
+  background-color: #eeeeee;
+  line-height: 145%;
+  font-size: 18px!important;
+  background-color: #eeeeee;
+  padding: 10px 20px!important;
+  border-radius: 50px!important;
+  margin-left: -42px;
+  font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+}
+
+.control-label {
+  font-size: 20px;
+  font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+}
+
+.form-group {
+  margin-bottom: 24px;
+}
+
+.form-group div {
+  line-height: 145%;
+}
+
+.questionnaire .fa-stack .fa-check{
+  font-size: 13px;
+  bottom: 6px;
+  left: 0px;
+}
+
+.brandColoredButton,
+.form-group button {
+  background: #0067FF !important;
+  text-transform: capitalize;
+  width: auto;
+  padding: 22px 30px;
+  border-radius: 50px;
+  line-height: 145%;
+}
+
+.brandColoredButton:hover {
+  background: #eeeeee !important;
+}
+
+
