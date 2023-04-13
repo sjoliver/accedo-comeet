@@ -1,6 +1,4 @@
-/* <link href="https://fonts.googleapis.com/css2?family=Outfit:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet" />
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet" />
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /> */
+
 
 p {
   font-size: 20px;
@@ -30,6 +28,11 @@ textarea {
    font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
 }
 
+.form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
 #jobFormDiv label.clickableLink, 
 #questionnairesDiv label.clickableLink {
   background-color: #eeeeee;
@@ -38,7 +41,7 @@ textarea {
   background-color: #eeeeee;
   padding: 10px 20px!important;
   border-radius: 50px!important;
-  margin-left: -42px;
+  margin-left: 0px;
   font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
 }
 
