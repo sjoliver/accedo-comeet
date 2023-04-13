@@ -28,11 +28,6 @@ textarea {
    font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
 }
 
-.form-horizontal .form-group {
-    margin-right: 0px;
-    margin-left: 0px;
-}
-
 #jobFormDiv label.clickableLink, 
 #questionnairesDiv label.clickableLink {
   background-color: #eeeeee;
