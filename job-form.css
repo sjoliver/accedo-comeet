@@ -68,7 +68,7 @@ textarea {
 }
 
 .job-form-embed {
-  margin-left: 0;
+  margin-left: 0px!Important;
 }
 
 .brandColoredButton:hover {
