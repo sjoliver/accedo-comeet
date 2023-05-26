@@ -1,5 +1,3 @@
-
-
 p {
   font-size: 20px;
   line-height: 145%;
@@ -69,8 +67,10 @@ textarea {
   line-height: 145%;
 }
 
+.job-form-embed {
+  margin-left: 0;
+}
+
 .brandColoredButton:hover {
   background: #eeeeee !important;
 }
-
-
