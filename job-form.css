@@ -67,10 +67,10 @@ textarea {
   line-height: 145%;
 }
 
-.job-form-embed {
-  margin-left: 0px !important;
-}
-
 .brandColoredButton:hover {
   background: #eeeeee !important;
+}
+
+#showApplyForm.button-two-lines {
+  padding: 15px; 
 }
