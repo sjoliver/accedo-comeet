@@ -81,12 +81,16 @@ textarea {
   padding: 13px 10px 10px;
   width: 60px;
   height: 60px;
-  background-color: rgb(0, 103, 255);
+  background-color: rgb(0, 103, 255)!important;
   margin-right: 20px;
 } 
 
 #jobShareDiv .socialWidget .grid-5>li {
   width: auto !important;
+}
+
+.socialWidget .grid-5>li {
+  width: auto!important;
 }
 
 .shareTitle span {
