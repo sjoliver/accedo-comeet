@@ -73,8 +73,9 @@ textarea {
 
 #showApplyForm.button-two-lines {
   padding: 15px; 
+  border-radius: 8px;
 }
 
-/* .socialWidget .shareButton a {
+.socialWidget .shareButton a {
   border-radius: 50px;
-} */
+} 
