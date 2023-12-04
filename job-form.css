@@ -76,6 +76,10 @@ textarea {
   border-radius: 8px;
 }
 
-.socialWidget .shareButton a {
+#jobShareDiv .socialWidget .shareButton a {
   border-radius: 50px;
 } 
+
+#jobShareDiv .socialWidget .grid-5>li {
+  width: auto!important;
+}
