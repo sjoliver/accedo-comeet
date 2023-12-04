@@ -85,12 +85,8 @@ textarea {
   margin-right: 20px;
 } 
 
-#jobShareDiv .socialWidget .grid-5>li {
+#jobShareDiv .socialWidget .shareButton {
   width: auto !important;
-}
-
-.socialWidget .grid-5>li {
-  width: auto!important;
 }
 
 .shareTitle span {
