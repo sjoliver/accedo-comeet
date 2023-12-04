@@ -86,5 +86,22 @@ textarea {
 } 
 
 #jobShareDiv .socialWidget .grid-5>li {
-    width: auto !important;
+  width: auto !important;
+}
+
+.shareTitle span {
+  font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+  color: #191919;
+  font-weight: bold;
+}
+
+.shareTitle .shareExplanation {
+  font-weight: 300;
+  color: #191919;
+}
+
+#copyLink .clickableLink {
+  font-family: 'Outfit', Outfit, 'Open Sans', Open Sans, Arial;
+  font-weight: 300;
+  color: #191919;
 }
