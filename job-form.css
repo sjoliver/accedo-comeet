@@ -124,7 +124,7 @@ textarea {
 }
 
 #footerLogo {
-  display: none!Important;
+  max-height: 0px!important;
 }
 
 .comeet-social-app.undefined {
