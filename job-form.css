@@ -81,5 +81,5 @@ textarea {
 } 
 
 .socialWidget .grid-5>li {
-  width: auto!important;
+    width: auto !important;
 }
