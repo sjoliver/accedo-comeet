@@ -122,3 +122,12 @@ textarea {
 #showApplyForm.button-two-lines span {
   line-height: 175%
 }
+
+#footerLogo {
+  display: none!Important;
+}
+
+.comeet-social-app.undefined {
+    position: relative;
+    top: -12px;
+}
