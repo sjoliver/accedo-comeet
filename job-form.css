@@ -80,6 +80,6 @@ textarea {
   border-radius: 50px;
 } 
 
-#jobShareDiv .socialWidget .grid-5>li {
+.socialWidget .grid-5>li {
   width: auto!important;
 }
