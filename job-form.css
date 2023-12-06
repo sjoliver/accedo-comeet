@@ -133,31 +133,37 @@ textarea {
 }
 
 /* ICONS */
-.socialIcon.twitter.white, 
-.white>.socialIcon.twitter {
+.socialIcon.twitter {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c90faebabb3f87d384_twitter-30.png") no-repeat;
+  background-position: center;
+  width: auto;
+  height: 100%;
 }
 
-.socialIcon.linkedin.white, 
-.white>.socialIcon.linkedin {
+.socialIcon.linkedin {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c9a4a74a3942caa887_linkedin-30.png") no-repeat;
+  background-position: center;
+  width: auto;
+  height: 100%;
 }
 
-.socialIcon.facebook.white,
-.white>.socialIcon.facebook {
+.socialIcon.facebook {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c9c18ad2fa8832f118_facebook-30.png") no-repeat;
+  background-position: center;
+  width: auto;
+  height: 100%;
 }
 
-.socialIcon.whatsApp.white, 
-.white>.socialIcon.whatsApp {
+.socialIcon.whatsApp {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c921928c7180edccff_whatsapp-30.png") no-repeat;
+  background-position: center;
+  width: auto;
+  height: 100%;
 }
 
-.socialIcon.email.white, 
-.white>.socialIcon.email {
+.socialIcon.email {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") no-repeat;
-}
-
-.socialIcon {
-    background: url(https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png) no-repeat;
+  background-position: center;
+  width: auto;
+  height: 100%;
 }
