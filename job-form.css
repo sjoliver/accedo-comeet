@@ -134,14 +134,11 @@ textarea {
 
 /* ICONS */
 #jobShareDiv .socialIcon.twitter {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c90faebabb3f87d384_twitter-30.png") no-repeat;
-  background-position: center;
-  width: auto;
-  height: 100%;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c90faebabb3f87d384_twitter-30.png") center auto 28px no-repeat;
 }
 
 #jobShareDiv .socialIcon.linkedin {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c9a4a74a3942caa887_linkedin-30.png") no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/63c84e2fd7ae74dfd9a72223_Vector.webp") no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
@@ -162,7 +159,7 @@ textarea {
 }
 
 #jobShareDiv .socialIcon.email {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") center contain no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
