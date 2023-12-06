@@ -134,21 +134,21 @@ textarea {
 
 /* ICONS */
 #jobShareDiv .socialIcon.twitter {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/65422a8164ad9975e20cd2b1_x-logo-mid-offset.png") center auto 28px no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/65422a8164ad9975e20cd2b1_x-logo-mid-offset.png") no-repeat center 28px auto;
 }
 
 #jobShareDiv .socialIcon.linkedin {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/63c84e2fd7ae74dfd9a72223_Vector.webp") center auto 28px no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/63c84e2fd7ae74dfd9a72223_Vector.webp") no-repeat center 28px auto;
 }
 
 #jobShareDiv .socialIcon.facebook {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/63d339ab2762ef155a6c3270_facebook.webp") center auto 28px no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/63d339ab2762ef155a6c3270_facebook.webp") no-repeat center 28px auto;
 }
 
 #jobShareDiv .socialIcon.whatsApp {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c921928c7180edccff_whatsapp-30.png") center auto 28px no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c921928c7180edccff_whatsapp-30.png") no-repeat center 28px auto;
 }
 
 #jobShareDiv .socialIcon.email {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") center auto 28px no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") no-repeat center 28px auto;
 }
