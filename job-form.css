@@ -133,35 +133,35 @@ textarea {
 }
 
 /* ICONS */
-.socialIcon.twitter {
+#jobShareDiv .socialIcon.twitter {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c90faebabb3f87d384_twitter-30.png") no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
 }
 
-.socialIcon.linkedin {
+#jobShareDiv .socialIcon.linkedin {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c9a4a74a3942caa887_linkedin-30.png") no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
 }
 
-.socialIcon.facebook {
+#jobShareDiv .socialIcon.facebook {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c9c18ad2fa8832f118_facebook-30.png") no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
 }
 
-.socialIcon.whatsApp {
+#jobShareDiv .socialIcon.whatsApp {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c921928c7180edccff_whatsapp-30.png") no-repeat;
   background-position: center;
   width: auto;
   height: 100%;
 }
 
-.socialIcon.email {
+#jobShareDiv .socialIcon.email {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") no-repeat;
   background-position: center;
   width: auto;
