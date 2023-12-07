@@ -83,7 +83,12 @@ textarea {
   height: 60px;
   background-color: rgb(0, 103, 255)!important;
   margin-right: 20px;
+  transition: background-color 0.5s;
 } 
+
+#jobShareDiv .socialWidget .shareButton a:hover {
+  background-color: rgb(25,25,25)!important;
+}
 
 #jobShareDiv .socialWidget .shareButton {
   width: auto !important;
@@ -149,7 +154,7 @@ textarea {
 }
 
 #jobShareDiv .socialIcon.whatsApp {
-  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53c921928c7180edccff_whatsapp-30.png") center no-repeat;
+  background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/65710c30705981848c842e35_icons8-whatsapp-50.png") center no-repeat;
   background-size: auto 28px;
 }
 
@@ -157,3 +162,5 @@ textarea {
   background: url("https://uploads-ssl.webflow.com/63c597ccd1518e710eed86ef/656e53cfc18ad2fa8832f435_icons8-email-48.png") center no-repeat;
   background-size: auto 28px;
 }
+
+#jobShareDiv 
